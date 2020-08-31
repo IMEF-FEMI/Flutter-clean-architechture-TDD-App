@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Mon Aug 31 2020 10:04:12 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-31-7-2020-10-4-4.txt
+
+
+Deleted files:
+
+
+Renamed files:
