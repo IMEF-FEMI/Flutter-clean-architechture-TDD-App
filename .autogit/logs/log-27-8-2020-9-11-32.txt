@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Sun Sep 27 2020 09:11:32 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* .autogit/autogit.json
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:
