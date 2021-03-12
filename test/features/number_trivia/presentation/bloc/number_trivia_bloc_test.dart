@@ -6,7 +6,6 @@ import 'package:clean_architecture_app/features/number_trivia/domain/usecases/ge
 import 'package:clean_architecture_app/features/number_trivia/domain/usecases/get_random_number_trivia.dart';
 import 'package:clean_architecture_app/features/number_trivia/presentation/bloc/number_trivia_bloc.dart';
 import 'package:dartz/dartz.dart';
-import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mockito/mockito.dart';
 
@@ -50,7 +49,7 @@ void main() {
           when(mockInputConverter.stringToUnsignedInteger(any))
               .thenReturn(Right(tNumberParsed));
       test(
-          'Should call the inputconverter to validate and convert the string to an unsigned inter',
+          'Should call the inputconverter to validate and convert the string to an unsigned integer',
           () async {
         // arrange
         setUpMockInputConverterSuccess();
@@ -158,7 +157,7 @@ void main() {
 
 
  group(
-    'getTriviaForConreteNumber',
+    'getTriviaForRandomNumber',
     () {
       final tNumberTrivia = NumberTrivia(number: 1, text: "test trivia");
 
