@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+		Sat Mar 13 2021 03:04:32 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* .autogit/autogit.json
+* test/features/number_trivia/data/datasources/number_trivia_local_data_source_test.dart
+* test/features/number_trivia/data/datasources/number_trivia_remote_data_source_test.dart
+* test/features/number_trivia/data/repositories/number_trivia_repository_impl_test.dart
+
+
+Created files:
+* .autogit/logs/log-12-2-2021-20-54-2.txt
+
+
+Deleted files:
+
+
+Renamed files:
