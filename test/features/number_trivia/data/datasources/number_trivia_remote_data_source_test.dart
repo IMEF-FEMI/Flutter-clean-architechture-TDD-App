@@ -59,7 +59,7 @@ void main() {
       // act
       final result = await dataSource.getConcreteNumberTrivia(tNumber);
       // assert
-      expect(result, equals(result));
+      expect(result, equals(tNumberTriviaModel));
     });
 
     test(

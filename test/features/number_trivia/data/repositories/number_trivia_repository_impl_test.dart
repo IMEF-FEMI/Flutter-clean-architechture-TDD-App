@@ -55,6 +55,7 @@ void main() {
     });
   }
 
+
   group('getConcreteNumberTrivia', () {
     final tNumber = 1;
     final tNumberTriviaModel = NumberTriviaModel(
